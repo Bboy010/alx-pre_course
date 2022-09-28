@@ -1,0 +1,9 @@
+git clone 
+git init
+git config --global user.name
+git config --global user.email
+git add name_of_file
+git commit -m 'update made'
+git push
+git branch
+git status
